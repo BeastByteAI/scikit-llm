@@ -192,7 +192,7 @@ Input:
 {x}
 ```
 
-Output (origina text with tags):
+Output (original text with tags):
 """
 
 
